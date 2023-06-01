@@ -1,5 +1,10 @@
   <h1>Jogo da Cobrinha</h1>
-  <p>Este é o código-fonte em Python para o clássico "Jogo da Cobrinha". O jogador controla a cobra para comer a comida e marcar pontos, evitando colidir com as bordas da tela ou com o próprio corpo.</p>
+  
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/language-python-blue.svg" alt="language">
+  </a>
+  
+  <p>Este é o código-fonte em Python para a minha versão do clássico "Jogo da Cobrinha". O jogador controla a cobra para comer a comida e marcar pontos, evitando colidir com as bordas da tela ou com o próprio corpo.</p>
   <h2>Pré-requisitos</h2>
   <ul>
     <li>Python 3.x</li>
