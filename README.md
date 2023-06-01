@@ -8,7 +8,7 @@
   <h2>Como jogar</h2>
   <ol>
   <li>Instale a biblioteca Pygame pelo Pip com o código: <code>pip install pygame</code></li>
-    <li>Execute o arquivo <code>jogo_da_cobrinha.py</code>.</li>
+    <li>Execute o arquivo <code>cobrinha.py</code>.</li>
     <li>Use as setas do teclado para controlar a direção da cobra.</li>
     <li>Mova a cobra para comer a comida e aumentar sua pontuação.</li>
     <li>Evite colidir com as bordas da tela ou com o próprio corpo da cobra.</li>
